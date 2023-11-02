@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World!</h2>
+<h2>The capital of Maharashtra is Mumbai</h2>
 </body>
 </html>
